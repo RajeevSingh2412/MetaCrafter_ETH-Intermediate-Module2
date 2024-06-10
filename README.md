@@ -1,10 +1,9 @@
-Sure, here is the README file for your SeaPort Manager Dapp project:
-
----
-
 # 🌐 SeaPort Manager Dapp
 
 > 💸 A Simple Web3 application for managing ship docking and undocking at a port using Ethereum smart contracts.
+>
+> ![image](https://github.com/RajeevSingh2412/MetaCrafter_ETH-Intermediate-Module2/assets/118631381/f5da0c71-d8be-499c-b89a-bde855f2506b)
+
 
 ## Description
 
